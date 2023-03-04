@@ -1,0 +1,44 @@
+@media only screen and (max-width:375px){
+    div.header-content{
+        max-width: 400px;
+        max-height: 180px;
+    }
+    .header-content h1{
+        font-size: 15px;
+    }
+    .header-content h3{
+        font-size: 10px;
+    }
+    .header-content p{
+        font-size: 8px;
+    }
+    div.about h2{
+        font-size: 15px;
+    }
+    span.price{
+        font-size: 25px;
+    }
+    h1.time{
+        font-size: 10px;
+    }
+    .info h1{
+        font-size: 10px;
+    }
+    button{
+        padding: 5px 10px;
+        font-size: 8px;
+    }
+    .extra h2{
+        font-size: 20px;
+    }
+    .extra p{
+        font-size: 10px;
+    }
+    section{
+        width: 200px;
+        height: -250px;
+    }
+
+
+    
+}
